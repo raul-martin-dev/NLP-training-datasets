@@ -1,0 +1,11 @@
+{
+    "reading with pandas": {
+        "delimiter": ";"
+    },
+    "dataset": {
+        "alias": "iniciativas-parlamentarias",
+        "delimiter": ";",
+        "area": "categoría",
+        "description": "asunto"
+    }
+}

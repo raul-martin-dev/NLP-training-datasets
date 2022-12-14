@@ -1,0 +1,11 @@
+{
+    "reading with pandas": {
+        "delimiter": ","
+    },
+    "dataset": {
+        "alias": "el-salvador",
+        "delimiter": ",",
+        "area": "SECTOR / CLUSTER",
+        "description": "DESCRIPCIÓN"
+    }
+}
