@@ -1,0 +1,13 @@
+{
+    "reading with pandas": {
+        "on_bad_lines": "skip",
+        "encoding": "utf8",
+        "delimiter": ";"
+    },
+    "dataset": {
+        "alias": "trafico-30",
+        "delimiter": ";",
+        "area": "Tipo de accidente",
+        "description": "Descripción del accidente"
+    }
+}
